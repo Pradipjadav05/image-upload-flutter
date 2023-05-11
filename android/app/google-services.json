@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "184718732068",
+    "project_id": "temp-data-storage-915a3",
+    "storage_bucket": "temp-data-storage-915a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184718732068:android:b628b7ea2881e5454461b1",
+        "android_client_info": {
+          "package_name": "com.example.file_upload_firestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184718732068-u8vhedt2ehb2foj7ams3vthun16shiuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4zQBLtOZzIvhRWLs5q9sXaOS8Sti5fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184718732068-u8vhedt2ehb2foj7ams3vthun16shiuo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184718732068-t5bkq0vuasmpmdghso161q0g0768qkj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fileUploadFirestorage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
